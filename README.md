@@ -1,7 +1,7 @@
 <h1>Hi, I'm Cesar, an <a href="https://linkedin.com/in/cesrebol">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>Microsoft Azure</b>
+<b>Microsoft Azure</b><br>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesrebol/configure-ad)<br>
   - [Create an Admin and Normal User Account in AD](https://github.com/cesrebol/add-admin-users)
 <h2>🤳Connect with me:</h2>
