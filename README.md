@@ -4,6 +4,9 @@
 <b>Microsoft Azure</b><br>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesrebol/configure-ad)<br>
   - [Create an Admin and Normal User Account in AD](https://github.com/cesrebol/add-admin-users)
+  
+<b>Cloud Resume Challange</b><br>
+  - [How to set up AWS account](https://github.com/cesrebol/aws-setup)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Cesar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
