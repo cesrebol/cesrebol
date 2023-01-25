@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Microsoft Azure</b><br>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesrebol/configure-ad)<br>
-- Create an Admin and Normal User Account in AD](https://github.com/cesrebol/add-admin-users)
+- [Create an Admin and Normal User Account in AD](https://github.com/cesrebol/add-admin-users)
   
 <b>Cloud Resume Challange</b><br>
 - [How to set up AWS account](https://github.com/cesrebol/aws-setup)
