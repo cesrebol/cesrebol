@@ -6,7 +6,7 @@
 -[Create an Admin and Normal User Account in AD] (https://github.com/cesrebol/add-admin-users)
   
 <b>Cloud Resume Challange</b><br>
--[How to set up AWS account] (https://github.com/cesrebol/aws-setup)
+-[How to set up AWS account] (https://github.com/cesrebol/cloud-resume-challange)
 
 <h2>🤳Connect with me:</h2>
 
