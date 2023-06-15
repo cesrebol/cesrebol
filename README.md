@@ -1,12 +1,9 @@
-<h1>Hi, I'm Cesar, an <a href="https://linkedin.com/in/cesrebol">IT Professional</a></h1>
+<h1>Hi, I'm Cesar, an <a href="https://linkedin.com/in/cesrebol">Computer Science Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Microsoft Azure</b><br>
 -[Configuring On-premises Active Directory within Azure VMs] (https://github.com/cesrebol/configure-ad)<br>
 -[Create an Admin and Normal User Account in AD] (https://github.com/cesrebol/add-admin-users)
-  
-<b>Cloud Resume Challange</b><br>
--[How to set up AWS account] (https://github.com/cesrebol/cloud-resume-challange)
 
 <h2>🤳Connect with me:</h2>
 
