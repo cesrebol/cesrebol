@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cesar, an <a href="https://linkedin.com/in/cesrebol">Computer Science Professional</a></h1>
+<h1>Hi, I'm Cesar, <a href="https://linkedin.com/in/cesrebol">Computer Science Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 <b>Microsoft Azure</b><br>
